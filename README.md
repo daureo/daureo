@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daureo
-- 👀 I’m interested in space exploration and human development
-- 🌱 I’m currently learning front-end development (HTML+CSS+Javascript) aiming for a career shift.
+- 👀 I’m interested in space exploration, sailing boats and human development
+- 🌱 I’m currently learning front-end development (HTML+CSS+Javascript) and mobile development.
 - 💞️ I’m looking to collaborate on small projects where I can put in practice - at a first moment - my daily learning
 - 📫 How to reach me? Twitter@daureo
 
